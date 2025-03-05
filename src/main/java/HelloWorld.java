@@ -1,4 +1,4 @@
-import javax.swing.*;
+cimport javax.swing.*;
 
 public class HelloWorld extends JFrame {
     private JLabel lblMensagem;
